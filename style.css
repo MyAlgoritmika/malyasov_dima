@@ -16,10 +16,6 @@ h1, h2 {
 }
 
 
-.main { 
-    width: 700px;
-}
-
 .link{
     margin: 5px 20px 10px 5px;border: 2px solid red ;
     padding: 5px;
@@ -38,7 +34,7 @@ h1, h2 {
     text-align: center;
     padding: 10px;
     font-size: 20px;
-    margin: 10px 50px 10px 50px;
+    margin: 10px 150px 10px 250px;
     background-image:linear-gradient(rgb(228, 83, 83), rgb(103, 103, 231));
     border-radius: 20px;
     color: aliceblue;
