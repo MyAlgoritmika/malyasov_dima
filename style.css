@@ -18,8 +18,9 @@ h1, h2 {
 
 .main { 
     display:flex;
-    justify-content:center;
+    
     width: 700px;
+    margin-left: 100px;
 }
 
 .link{
