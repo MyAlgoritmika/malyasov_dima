@@ -17,8 +17,6 @@ h1, h2 {
 
 
 .main { 
-    display:flex;
-    
     width: 700px;
     margin-left: 100px;
 }
